@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace DuplicatesInAnArray
 {
@@ -10,8 +11,8 @@ namespace DuplicatesInAnArray
             //Console.WriteLine("Hello World!");
             //FindDuplicateInArrayNormalApproach();
             //FindDuplicateInArrayUsingDictionary();
-
-            RemoveDuplicatesFromArray();
+            FindDuplicateInArrayUsingLinq();
+           // RemoveDuplicatesFromArray();
 
             Console.ReadKey();
         }
@@ -86,8 +87,20 @@ namespace DuplicatesInAnArray
             }
         }
 
-      
-        public static void RemoveDuplicatesFromArray()
+        public static void FindDuplicateInArrayUsingLinq()
+        {
+            int[] array = { 10, 5, 10, 2, 2, 3, 4, 5, 5, 6, 7, 8, 9, 11, 12, 12 };
+            //List<int> list = new List<int>() { 3, 5, 3, 2, 7, 7, 5, 6 };
+
+            IEnumerable<int> duplicates = array.GroupBy(x => x)
+                                              .Where(g => g.Count() > 1)
+                                              .Select(x => x.Key);
+
+            Console.WriteLine("Duplicate elements are: " + String.Join(",", duplicates));
+        }
+
+
+            public static void RemoveDuplicatesFromArray()
         {
             int[] array = new int[] { 4, 8, 4, 1, 1, 4, 8 };
             int numDups = 0, prevIndex = 0;
