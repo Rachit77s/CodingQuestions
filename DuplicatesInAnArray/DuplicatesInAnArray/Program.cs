@@ -8,8 +8,11 @@ namespace DuplicatesInAnArray
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            FindDuplicateInArrayNormalApproach();
-            FindDuplicateInArrayUsingDictionary();
+            //FindDuplicateInArrayNormalApproach();
+            //FindDuplicateInArrayUsingDictionary();
+
+            RemoveDuplicatesFromArray();
+
             Console.ReadKey();
         }
 
@@ -80,7 +83,62 @@ namespace DuplicatesInAnArray
                 // if frequency is more than 1 print the element
                 //if (pair.Value > 1)
                 //    Console.Write(pair.Key + " ");
-            }          
+            }
+        }
+
+      
+        public static void RemoveDuplicatesFromArray()
+        {
+            int[] array = new int[] { 4, 8, 4, 1, 1, 4, 8 };
+            int numDups = 0, prevIndex = 0;
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                bool foundDup = false;
+                for (int j = 0; j < i; j++)
+                {
+                    if (array[i] == array[j])
+                    {
+                        foundDup = true;
+                        numDups++; // Increment means Count for Duplicate found in array.
+                        break;
+                    }
+                }
+
+                if (foundDup == false)
+                {
+                    array[prevIndex] = array[i];
+                    prevIndex++;
+                }
+            }
+
+            // Just Duplicate records replce by zero.
+            for (int k = 1; k <= numDups; k++)
+            {
+                array[array.Length - k] = '\0';
+            }
+
+            for (int i = 0; i < array.Length; i++)
+                Console.Write(array[i] + " ");
+        }
+
+        public static void RemoveDuplicatesFromArrayUsingList()
+        {
+            int[] array = { 10, 5, 10, 2, 2, 3, 4, 5, 5, 6, 7, 8, 9, 11, 12, 13 };
+
+            List<int> distinctValues = new List<int>();
+            foreach (int val in array)
+            {
+                if (!distinctValues.Contains(val))
+                {
+                    distinctValues.Add(val);
+                }
+            }
+
+            // Print updated array
+            for (int i = 0; i < distinctValues.Count; i++)
+                Console.Write(distinctValues[i] + " ");
+
         }
     }
 }
