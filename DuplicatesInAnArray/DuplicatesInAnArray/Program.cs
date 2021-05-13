@@ -100,7 +100,7 @@ namespace DuplicatesInAnArray
         }
 
 
-            public static void RemoveDuplicatesFromArray()
+        public static void RemoveDuplicatesFromArray()
         {
             int[] array = new int[] { 4, 8, 4, 1, 1, 4, 8 };
             int numDups = 0, prevIndex = 0;

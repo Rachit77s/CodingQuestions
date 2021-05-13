@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\bin\Debug\net5.0\DuplicateInString.exe
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\bin\Debug\net5.0\DuplicateInString.deps.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\bin\Debug\net5.0\DuplicateInString.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\bin\Debug\net5.0\DuplicateInString.runtimeconfig.dev.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\bin\Debug\net5.0\DuplicateInString.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\bin\Debug\net5.0\ref\DuplicateInString.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\bin\Debug\net5.0\DuplicateInString.pdb
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\obj\Debug\net5.0\DuplicateInString.csprojAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\obj\Debug\net5.0\DuplicateInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\obj\Debug\net5.0\DuplicateInString.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\obj\Debug\net5.0\DuplicateInString.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\obj\Debug\net5.0\DuplicateInString.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\obj\Debug\net5.0\DuplicateInString.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\obj\Debug\net5.0\ref\DuplicateInString.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\obj\Debug\net5.0\DuplicateInString.pdb
+C:\Users\HP\Documents\GitHub\CodingQuestions\DuplicateInString\DuplicateInString\obj\Debug\net5.0\DuplicateInString.genruntimeconfig.cache
