@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\bin\Debug\net5.0\PyramidPattern.exe
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\bin\Debug\net5.0\PyramidPattern.deps.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\bin\Debug\net5.0\PyramidPattern.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\bin\Debug\net5.0\PyramidPattern.runtimeconfig.dev.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\bin\Debug\net5.0\PyramidPattern.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\bin\Debug\net5.0\ref\PyramidPattern.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\bin\Debug\net5.0\PyramidPattern.pdb
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\obj\Debug\net5.0\PyramidPattern.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\obj\Debug\net5.0\PyramidPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\obj\Debug\net5.0\PyramidPattern.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\obj\Debug\net5.0\PyramidPattern.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\obj\Debug\net5.0\PyramidPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\obj\Debug\net5.0\PyramidPattern.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\obj\Debug\net5.0\ref\PyramidPattern.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\obj\Debug\net5.0\PyramidPattern.pdb
+C:\Users\HP\Documents\GitHub\CodingQuestions\PyramidPattern\PyramidPattern\obj\Debug\net5.0\PyramidPattern.genruntimeconfig.cache
