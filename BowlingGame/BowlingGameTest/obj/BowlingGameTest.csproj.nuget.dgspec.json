@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGameTest\\BowlingGameTest.csproj": {}
+    "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGameTest\\BowlingGameTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGameTest\\BowlingGameTest.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGameTest\\BowlingGameTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGameTest\\BowlingGameTest.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGameTest\\BowlingGameTest.csproj",
         "projectName": "BowlingGameTest",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGameTest\\BowlingGameTest.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGameTest\\BowlingGameTest.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGameTest\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGameTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGame\\BowlingGame.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGame\\BowlingGame.csproj"
+              "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGame\\BowlingGame.csproj": {
+                "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGame\\BowlingGame.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGame\\BowlingGame.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGame\\BowlingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGame\\BowlingGame.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGame\\BowlingGame.csproj",
         "projectName": "BowlingGame",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGame\\BowlingGame.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGame\\BowlingGame.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\BowlingGame\\BowlingGame\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\CodingQuestions\\BowlingGame\\BowlingGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
