@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\bin\Debug\net6.0\SecondLargestArray.exe
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\bin\Debug\net6.0\SecondLargestArray.deps.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\bin\Debug\net6.0\SecondLargestArray.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\bin\Debug\net6.0\SecondLargestArray.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\bin\Debug\net6.0\ref\SecondLargestArray.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\bin\Debug\net6.0\SecondLargestArray.pdb
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\obj\Debug\net6.0\SecondLargestArray.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\obj\Debug\net6.0\SecondLargestArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\obj\Debug\net6.0\SecondLargestArray.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\obj\Debug\net6.0\SecondLargestArray.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\obj\Debug\net6.0\SecondLargestArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\obj\Debug\net6.0\SecondLargestArray.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\obj\Debug\net6.0\ref\SecondLargestArray.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\obj\Debug\net6.0\SecondLargestArray.pdb
+C:\Users\HP\Documents\GitHub\CodingQuestions\SecondLargestArray\SecondLargestArray\obj\Debug\net6.0\SecondLargestArray.genruntimeconfig.cache
