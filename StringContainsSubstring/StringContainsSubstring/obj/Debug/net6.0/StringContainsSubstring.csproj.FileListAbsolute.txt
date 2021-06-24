@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\bin\Debug\net6.0\StringContainsSubstring.exe
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\bin\Debug\net6.0\StringContainsSubstring.deps.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\bin\Debug\net6.0\StringContainsSubstring.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\bin\Debug\net6.0\StringContainsSubstring.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\bin\Debug\net6.0\ref\StringContainsSubstring.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\bin\Debug\net6.0\StringContainsSubstring.pdb
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\obj\Debug\net6.0\StringContainsSubstring.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\obj\Debug\net6.0\StringContainsSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\obj\Debug\net6.0\StringContainsSubstring.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\obj\Debug\net6.0\StringContainsSubstring.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\obj\Debug\net6.0\StringContainsSubstring.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\obj\Debug\net6.0\StringContainsSubstring.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\obj\Debug\net6.0\ref\StringContainsSubstring.dll
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\obj\Debug\net6.0\StringContainsSubstring.pdb
+C:\Users\HP\Documents\GitHub\CodingQuestions\StringContainsSubstring\StringContainsSubstring\obj\Debug\net6.0\StringContainsSubstring.genruntimeconfig.cache
