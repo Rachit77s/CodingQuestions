@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\bin\Debug\net6.0\SubarraySumWithSizeK.exe
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\bin\Debug\net6.0\SubarraySumWithSizeK.deps.json
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\bin\Debug\net6.0\SubarraySumWithSizeK.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\bin\Debug\net6.0\SubarraySumWithSizeK.dll
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\bin\Debug\net6.0\ref\SubarraySumWithSizeK.dll
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\bin\Debug\net6.0\SubarraySumWithSizeK.pdb
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\obj\Debug\net6.0\SubarraySumWithSizeK.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\obj\Debug\net6.0\SubarraySumWithSizeK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\obj\Debug\net6.0\SubarraySumWithSizeK.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\obj\Debug\net6.0\SubarraySumWithSizeK.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\obj\Debug\net6.0\SubarraySumWithSizeK.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\obj\Debug\net6.0\SubarraySumWithSizeK.dll
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\obj\Debug\net6.0\ref\SubarraySumWithSizeK.dll
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\obj\Debug\net6.0\SubarraySumWithSizeK.pdb
+C:\Users\HP\Documents\GitHub\SubarraySumWithSizeK\SubarraySumWithSizeK\obj\Debug\net6.0\SubarraySumWithSizeK.genruntimeconfig.cache

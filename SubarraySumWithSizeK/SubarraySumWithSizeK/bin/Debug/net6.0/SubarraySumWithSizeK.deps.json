@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SubarraySumWithSizeK/1.0.0": {
+        "runtime": {
+          "SubarraySumWithSizeK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SubarraySumWithSizeK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
