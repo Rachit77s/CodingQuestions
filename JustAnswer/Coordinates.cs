@@ -31,20 +31,20 @@ public class Program
 	}
 	
 	public static Point[] SortCoordinates(Point[] points)
-  {
-     // We can use: IComparer<Point> as well in place of this.
-     Array.Sort(points, (a, b) =>
-     {
-       if (a.Y == b.Y)
-       {
-         return Convert.ToInt32(a.X) - Convert.ToInt32(b.X);
-       }
+  	{
+		 // We can use: IComparer<Point> as well in place of this.
+		 Array.Sort(points, (a, b) =>
+		 {
+		     if (a.Y == b.Y)
+		     {
+			return Convert.ToInt32(a.X) - Convert.ToInt32(b.X);
+		     }
 
-       return Convert.ToInt32(b.Y) - Convert.ToInt32(a.Y);
-     });
-		
-		return points;
-  }
+		     return Convert.ToInt32(b.Y) - Convert.ToInt32(a.Y);
+		 });
+
+	   	return points;
+  	}
 	
 	public static Point[] GeneratePoints()
 	{
