@@ -1,0 +1,3 @@
+public enum CouponType {
+    PERCENT_OFF, NEXT_ITEM_PERCENT_OFF, NTH_ITEM_TYPE_T_PERCENT_OFF
+}
